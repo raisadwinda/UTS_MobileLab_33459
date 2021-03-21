@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".profileSecondFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="referensi"
+            android:fontFamily="@font/karla"
+            android:textSize="19dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:letterSpacing="0.15"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ref 1"
+            android:fontFamily="@font/nunito"
+            android:textSize="14dp"
+            android:textColor="@color/white"
+            android:letterSpacing="0.05"/>
+    </LinearLayout>
+</LinearLayout>
