@@ -24,13 +24,120 @@
             android:textStyle="bold"
             android:letterSpacing="0.15"
             android:layout_gravity="center"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="ref 1"
-            android:fontFamily="@font/nunito"
-            android:textSize="14dp"
-            android:textColor="@color/white"
-            android:letterSpacing="0.05"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Youtube :"
+                android:textStyle="bold"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://youtu.be/1Nmy88n7CZ8"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://youtu.be/NxhdDTZq2UU"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://youtu.be/PsHJYByKROE"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://youtu.be/l8XMz2f9VLM"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://www.youtube.com/watch?v=Ph3Ek6cLS4M"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://www.youtube.com/watch?v=ox5RTl1Yvm0"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://youtu.be/-iLG0oucUI4"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://youtu.be/h47CqbmhdAs"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Stackoverflow :"
+                android:textStyle="bold"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://stackoverflow.com/questions/36183646/how-to-create-auto-popup-window-in-android-studio"
+                android:fontFamily="@font/nunito"
+                android:textSize="7dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://stackoverflow.com/questions/5861661/actionbar-text-color"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Website :"
+                android:textStyle="bold"
+                android:fontFamily="@font/nunito"
+                android:textSize="8dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="http://www.androidhive.info/2012/08/android-session-management-using-shared-preferences/"
+                android:fontFamily="@font/nunito"
+                android:textSize="7dp"
+                android:textColor="@color/white"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="https://www.tutorialspoint.com/android/android_mediaplayer.htm"
+                android:fontFamily="@font/nunito"
+                android:textSize="7dp"
+                android:textColor="@color/white"/>
+
+
     </LinearLayout>
 </LinearLayout>

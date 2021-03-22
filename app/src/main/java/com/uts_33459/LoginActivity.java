@@ -36,22 +36,6 @@ public class LoginActivity extends AppCompatActivity {
 
         actionBar.setBackgroundDrawable(new ColorDrawable(Color.parseColor("#FF000000")));
 
-//        btnSubmitLogin.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                //check if password & username are true
-//                if (etUsername.getText().toString().equals("uasmobile") && etPassword.getText().toString().equals("uasmobilegenap")){
-//                    Toast.makeText(LoginActivity.this, "Logged In", Toast.LENGTH_SHORT).show();
-//                    //make intent
-//                    Intent intent = new Intent(LoginActivity.this, PlaylistActivity.class);
-//                    startActivity(intent);
-//                    finish();
-//                }else{
-//                    Toast.makeText(getApplicationContext(), "Invalid Username / Password", Toast.LENGTH_SHORT).show();
-//                }
-//            }
-//        });
-
         btnSubmitLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
